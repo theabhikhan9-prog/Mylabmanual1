@@ -1,0 +1,28 @@
+p{
+    color: forestgreen;
+    text-align: center;
+}
+div>ol>li{
+    background-color: rgb(135, 222, 145);
+    color: rgb(141, 16, 25);
+    margin: 10px;
+}
+.H{
+    background-color:rgb(186, 196, 46);
+    text-align: right;
+    color: rgb(17, 8, 32);    
+
+}
+h1,h2{
+    color: rgb(82, 12, 66);
+    text-align: right;
+}
+#main{
+    color: rgb(128, 128, 128);
+    ;
+
+}
+
+a:hover{
+    color: rgb(40, 29, 191);
+}
